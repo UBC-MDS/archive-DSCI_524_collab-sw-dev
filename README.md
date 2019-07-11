@@ -17,20 +17,26 @@ By the end of the course, students are expected to be able to:
 ## Course Format
 This is a project-based course where you will work collaboratively in groups to develop a Python and a R software package. In lecture and lab, we'll work on the skills and concepts that you need to learn to complete the project. 
 
-## Teaching Team
 
-| Position | Name  | Slack Handle | GHE Handle | Office Hour |
-| :------: | :---: | :----------: | :--------: | :----------:|
-| Lecture Instructor | Meghan Allen | `@meghanallen` | `@meghana` | various - see calendar |
-| Lab Instructor | Varada Kolhatkar | `@Varada`  | `@kvarada`  | by appointment |
-| Teaching Assistant | Jie Xiang | `@Doris Xiang ` |  |  |
-| Teaching Assistant | Hossameldin Mohammed | `@Hossam` |  |  |
-| Teaching Assistant | Laura Melissa Guzman | `@Melissa G` |  |  |
-| Teaching Assistant | Rainer Lempert | @rainerlempert |  |  |
-			
+## Assessments
 
+| Deliverable | % grade |
+|------------|----------|
+| In-class participation | 10% |
+| Project proposal + Milestone1 | 20% |
+| Milestone 2 | 20% |
+| Milestone 3  | 20% |
+| Final project | 20% |
+| Team work | 10% |
 
-*Note: See [Calendar](https://ubc-mds.github.io/calendar/) for office hour location and exact dates.*
+| Lab | topic | lab/milestone due dates |
+|-----|------|-------------------|
+| 2018-02-05 | Project Proposal and Milestone 1: writing unit tests for functions & setting up package structure | 2019-02-09 |
+| 2018-02-12 | Milestone 2: writing the functions for the package  | 2019-02-16 |
+| 2018-02-26 | Milestone 3: writing any additional tests that are required, selecting a license | 2019-03-02 |
+| 2018-03-05 | Milestone 4: complete project including exception handling and setting up continuous integration testing |  2019-03-09 |
+| NA | Team project reflection |  2019-03-10 |
+
 
 
 ## Lecture Schedule
@@ -47,24 +53,3 @@ This is a project-based course where you will work collaboratively in groups to 
 
 Time and location: Mondays and Wednesdays 10:30am- 11:50am in DMP 301
 
-## Assessment
-| Deliverable | % grade |
-|------------|----------|
-| In-class participation | 10% |
-| Project proposal + Milestone1 | 20% |
-| Milestone 2 | 20% |
-| Milestone 3  | 20% |
-| Final project | 20% |
-| Team work | 10% |
-
-## Labs
-
-| Lab | topic | lab/milestone due dates |
-|-----|------|-------------------|
-| 2018-02-05 | Project Proposal and Milestone 1: writing unit tests for functions & setting up package structure | 2019-02-09 |
-| 2018-02-12 | Milestone 2: writing the functions for the package  | 2019-02-16 |
-| 2018-02-26 | Milestone 3: writing any additional tests that are required, selecting a license | 2019-03-02 |
-| 2018-03-05 | Milestone 4: complete project including exception handling and setting up continuous integration testing |  2019-03-09 |
-| NA | Team project reflection |  2019-03-10 |
-
-  
